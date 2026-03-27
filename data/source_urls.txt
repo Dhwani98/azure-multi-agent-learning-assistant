@@ -1,0 +1,10 @@
+https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview
+https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
+https://learn.microsoft.com/en-us/azure/search/search-how-to-index-azure-blob-storage
+https://learn.microsoft.com/en-us/azure/foundry/
+https://learn.microsoft.com/en-us/azure/foundry/agents/overview
+https://learn.microsoft.com/en-us/semantic-kernel/overview/
+https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide
+https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
+https://learn.microsoft.com/en-us/training/azure/ai-foundry
+https://learn.microsoft.com/en-us/azure/search/resource-training

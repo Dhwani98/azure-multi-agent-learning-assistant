@@ -1,0 +1,77 @@
+SOURCE_URL: https://learn.microsoft.com/en-us/azure/foundry/
+TITLE: Microsoft Foundry documentation | Microsoft Learn
+
+Microsoft Foundry documentation
+The AI app and agent factory - build, optimize, and govern AI apps and agents at scale.
+Overview
+What is Microsoft Foundry?
+Overview
+Looking for Foundry (classic) portal documentation?
+Concept
+Explore Foundry Models
+Overview
+Manage agents, models, and tools
+Create apps with code
+Quickstart - Create Foundry resources
+Quickstart - Chat with an agent
+Start with an AI template
+Foundry Models
+Foundry Models sold directly by Azure
+Deployment types
+Get started with DeepSeek-R1
+Learn how to fine-tune models
+Foundry Agent Service
+Orchestrate and host AI agents to automate and execute business processes
+Azure AI app template for agents
+AI Red Teaming Agent (preview)
+Foundry Control Plane
+Trustworthy AI
+What is Content Safety?
+Trace your application with Microsoft Foundry project library
+Evaluate agentic workflows
+Monitor your generative AI applications
+Foundry IQ
+What is Foundry IQ?
+Frequently asked questions
+Connect knowledge base to agents
+Foundry Tools
+Speech
+Translator
+Language
+Document Intelligence
+Content Understanding
+Face
+Azure Machine Learning
+Learn how to train models
+Orchestrate workflows with pipelines
+What is automated machine learning (AutoML)?
+Foundry Local
+Run LLMs on your device for free
+Integrate your apps
+Run HuggingFace models
+SDK Documentation
+Software development kits (SDKs)
+Get started with the Foundry SDK in your favorite programming language.
+Python
+C#
+JavaScript
+Java
+Further resources
+Explore Microsoft Foundry
+Microsoft Foundry portal
+Microsoft Foundry SDKs
+Microsoft Foundry labs
+GitHub Models
+Visual Studio Code extension
+Explore more Azure AI
+What are Foundry Tools?
+Microsoft Agent Framework
+Document Intelligence
+Vision
+Immersive Reader
+Training & certification
+AI learning and community hub
+Develop generative AI apps in Microsoft Foundry
+Identify principles and practices for responsible AI
+AI Learning paths and modules
+AI Engineer career path

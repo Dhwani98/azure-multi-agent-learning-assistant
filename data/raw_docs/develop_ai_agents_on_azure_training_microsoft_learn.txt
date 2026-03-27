@@ -1,0 +1,59 @@
+SOURCE_URL: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
+TITLE: Develop AI Agents on Azure - Training | Microsoft Learn
+
+Read in English
+Develop AI agents on Azure
+Learning Path
+9 Modules
+At a glance
+Level
+Intermediate
+Skill
+&nbsp;
+Product
+Foundry Tools
+Microsoft Foundry
+Role
+AI Engineer
+Subject
+Artificial intelligence
+Machine learning
+Natural language processing
+Generative Artificial Intelligence (AI) is becoming more functional and accessible, and AI agents are a key component of this evolution. This learning path will help you understand the AI agents, including when to use them and how to build them, using Microsoft Foundry Agent Service and Microsoft Agent Framework. By the end of this learning path, you will have the skills needed to develop AI agents on Azure.
+Prerequisites
+Before starting this module, you should be familiar with fundamental AI concepts and services in Azure. Consider completing the
+Get started with artificial intelligence
+learning path first.
+Add
+Achievement Code
+Would you like to request an achievement code?
+Request achievement code
+Modules in this learning path
+Develop AI agents with Microsoft Foundry and Visual Studio Code
+Learn how to build, test, and deploy AI agents using Microsoft Foundry Agent Service through both the Azure portal and Visual Studio Code extension.
+Add
+Integrate custom tools into your agent
+Built-in tools are useful, but they may not meet all your needs. In this module, learn how to extend the capabilities of your agent by integrating custom tools for your agent to use.
+Add
+Integrate MCP Tools with Azure AI Agents
+Enable dynamic tool access for your Azure AI agents. Learn how to connect MCP-hosted tools and integrate them seamlessly into agent workflows.
+Add
+Build knowledge-enhanced AI agents with Foundry IQ
+Learn how to connect AI agents with enterprise knowledge using Foundry IQ. You'll explore how Retrieval Augmented Generation (RAG) solves the knowledge problem for AI agents, discover how Foundry IQ provides a shared knowledge platform that multiple agents can access, improve retrieval quality through data optimization, and configure agent instructions for consistent, cited responses.
+Add
+Integrate your agent with Microsoft 365
+Learn how to publish Microsoft Foundry agents to Microsoft Teams and Microsoft 365 Copilot, access workplace data with Work IQ, and test your integrated agents.
+Add
+Build agent-driven workflows using Microsoft Foundry
+Workflows enable you to orchestrate AI agents and other components to create intelligent applications. Learn how to build and manage workflows using Microsoft Foundry.
+Add
+Develop an AI agent with Microsoft Agent Framework
+This module provides engineers with the skills to begin building Microsoft Foundry Agent Service agents with Microsoft Agent Framework.
+Add
+Orchestrate a multi-agent solution using the Microsoft Agent Framework
+Learn how to use the Microsoft Agent Framework SDK to develop your own AI agents that can collaborate for a multi-agent solution.
+Add
+Discover Azure AI Agents with A2A
+Learn how to implement the A2A protocol to enable agent discovery, direct communication, and coordinated task execution across remote agents.
+Add
+Start

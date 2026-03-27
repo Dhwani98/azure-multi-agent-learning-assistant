@@ -1,0 +1,41 @@
+SOURCE_URL: https://learn.microsoft.com/en-us/training/azure/ai-foundry
+TITLE: Training for Microsoft Foundry | Microsoft Learn
+
+Microsoft Learn for Microsoft Foundry
+Innovate with Microsoft Foundry
+Microsoft Foundry brings together models, tools, and orchestration capabilities to help developers build intelligent agents and applications faster. Whether you're prototyping or scaling production workloads, Microsoft Foundry is your launchpad.
+Browse all Microsoft Foundry training
+Microsoft Foundry Overview
+Microsoft Foundry is a unified platform for developers to build, customize, and manage generative AI applications. It simplifies workflows across model deployment, agent orchestration, and observabilityâempowering you to go from prototype to production with confidence.
+Introduction to Microsoft Foundry
+Explore Microsoft Foundry
+Your path to getting started with Microsoft Foundry
+Get started with Microsoft Foundry
+Learn the basics of the Foundry portal, software developer kits (SDKs), and project setup.
+0%
+0%
+0%
+Build with AI agents
+Develop an agent using Foundry Agent Service and Model Context Protocol (MCP).
+0%
+0%
+0%
+0%
+Optimize and evaluate
+Explore built-in tools for optimizing and evaluating models and agents.
+0%
+0%
+0%
+Safeguard your data
+Prepare your solution for deployment with templates and best practices.
+0%
+0%
+Complete this learning path
+Get Certified
+After you complete the self-paced training and/or the instructor led course, try a practice assessment to see if you're ready for the credential exam.
+0%
+Take the practice assessment
+Join the Microsoft Foundry developer community
+Connect with other developers building with Microsoft Foundry. Share ideas, get support, and stay updated on the latest features and best practices.
+Join the Microsoft Foundry Developer Discord
+Join the Microsoft Foundry Developer Hub

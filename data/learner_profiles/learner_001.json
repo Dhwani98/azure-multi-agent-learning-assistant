@@ -1,0 +1,12 @@
+{
+  "learner_id": "learner_001",
+  "name": "Priya",
+  "goal": "Learn Azure AI agents on Azure",
+  "completed_modules": ["Azure Basics", "AI Basics"],
+  "quiz_scores": {
+    "Azure Basics": 85,
+    "AI Basics": 68
+  },
+  "weak_topics": ["RAG", "Semantic Kernel"],
+  "preferred_level": "beginner"
+}
